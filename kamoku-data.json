@@ -1,5 +1,6 @@
-{
+[
     {
+
         name:"現金",
         postion:"資産",
         level:3
@@ -9,4 +10,4 @@
         postion:"資産",
         level:3
     }
-}
+]
