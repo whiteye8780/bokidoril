@@ -1,9 +1,12 @@
-"level3"{[
-    name:"現金",
-    postion:"資産"
-]
-,[
-    name:"売掛金",
-    postion:"資産"
-]
+{
+    {
+        name:"現金",
+        postion:"資産",
+        level:3
+    }
+    ,{
+        name:"売掛金",
+        postion:"資産",
+        level:3
+    }
 }
